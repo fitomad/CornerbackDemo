@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cornerback",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fitomad/Cornerback",
+      "state" : {
+        "revision" : "18c0e6c944b80082883ed3431b36087fe53a1835",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
